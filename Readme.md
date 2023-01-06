@@ -21,6 +21,6 @@ Finite differences methods:
 Monte-carlo methods:
 - Fixed random walk - works fine
 - Float random walk - fast but innacurate near heating source
-- Half-float random walk - TODO
+- Semi-float random walk - works fine with step size $\approx 1$
 
-![Full solution example](/tridiag1.png)
+![Finite differences solution example](/seidel1.png)
